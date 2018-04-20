@@ -16,4 +16,4 @@ ITESM Campus Chihuahua el cual hecho o compuesto de los siguientes componentes:"
 * Josué Morales - A01187099
 * Jesus Enrique Ruiz Aguilar - A00758756
 
-![Fotos](https://imgur.com/a/gPYpxbM "Fotos")
+![Fotos](https://imgur.com/a/gPYpxbM)
